@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MoeTools</string>
+    <string name="title_activity_about">关于本软件</string>
+    <string name="about_txt">\t\t\t软件版本:1.5.6
+        \n\t\t\t开发者:Luncode
+        \n\t\t\tLogo画师:郑修
+        \n\n\t\t\t电子邮件:\n
+        \t\t\too#luncode.com(把#号换成@)
+        \n\t\t\t个人博客:blog.luncode.com
+        \n\t\t\t有些图片来源网络,如有侵权联系我
+        \n\t\t\t立即会整改！感谢大家的支持！
+    </string>
+    <string name="title_activity_update_log">更新日志</string>
+    <string name="appwidget_text">Moe</string>
+    <string name="add_widget">Add widget</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_moe">萌主页</string>
+    <string name="title_mainactivity">微信贺卡分享功能</string>
+    <string name="verstion">1.5.6</string>
+</resources>
